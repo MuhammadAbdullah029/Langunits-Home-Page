@@ -1,22 +1,22 @@
 @font-face {
     font-family: dancingScript;
-    src: url(/Assets/fonts/DancingScript-VariableFont_wght.ttf);
+    src: url(/Assets/fonts/DancingScript-VariableFont_wght.woff2);
 }
 @font-face {
     font-family: drukHeavy;
-    src: url(/Assets/fonts/Druk-Heavy.ttf);
+    src: url(/Assets/fonts/Druk-Heavy.woff2);
 }
 @font-face {
     font-family: gilroy;
-    src: url(/Assets/fonts/Gilroy-Medium.otf);
+    src: url(/Assets/fonts/Gilroy-Medium.woff2);
 }
 @font-face {
     font-family: vanguard CF;
-    src: url(/Assets/fonts/Fontspring-DEMO-vanguardcf-regular.otf);
+    src: url(/Assets/fonts/Fontspring-DEMO-vanguardcf-regular.woff2);
 }
 @font-face {
     font-family: monument;
-    src: url(/Assets/fonts/MonumentExtended-Regular.otf);
+    src: url(/Assets/fonts/MonumentExtended-Regular.woff2);
 }
 
 *{
